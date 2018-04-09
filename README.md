@@ -1,6 +1,6 @@
 # Chinczyk
 
-[ Pierwszy wiekszy projekt na zajecia ]
+[ Pierwszy projekt na zajecia, 05/2017 ]
 
 Gra ASCII, Linux/Windows
 Jezyk: C
